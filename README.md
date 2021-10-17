@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-[![](https://raw.githubusercontent.com/takatoshiinaoka/takatoshiinaoka/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![takatoshiinaoka](https://raw.githubusercontent.com/takatoshiinaoka/takatoshiinaoka/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/takatoshiinaoka/github-profile-summary-cards)
 -->
 
 

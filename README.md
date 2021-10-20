@@ -4,7 +4,6 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-いなおかでーーす。
 I'm an **College Student in Fukuoka studying computer science🎓** I want to change the world using a computer. When I was looking for something I could do with a computer, I came across programming. Recently, I am interested in artificial intelligence. <br/><br/>
 
 <!--

@@ -11,7 +11,8 @@
 <br>
 [![Topa'z](https://img.shields.io/badge/-topa'z-61dafb?&style=flat&logo=Moo&logoColor=555)](https://topaz.dev/users/8759a409a9b82455a083e5dfaa4f)
 ### A little about me... 
-I'm an **College Student in Fukuoka studying computer science🎓** I want to change the world using a computer. When I was looking for something I could do with a computer, I came across programming. Recently, I am interested in Cloud Computing &　Artificial Intelligence. <br/><br/>
+I'm an **College Student in Fukuoka studying computer science🎓** I want to change the world using a computer. When I was looking for something I could do with a computer, I came across programming. Recently, I am interested in Cloud Computing & Artificial Intelligence. 
+<br/><br/>
 
 <!--
 - 🔭 I’m currently working on intern at <a href="https://www.alterbooth.com/" target="_blank" rel="noreferrer"> <img src="https://www.alterbooth.com/img/common/logo.png" alt="azure" width="80" height="20"/> </a>

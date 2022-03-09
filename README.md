@@ -2,8 +2,7 @@
 
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! , I am <a href="https://github.com/takatoshiinaoka">Takatoshi Inaoka</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
+### A little about me... 
 I'm an **College Student in Fukuoka studying computer science🎓** I want to change the world using a computer. When I was looking for something I could do with a computer, I came across programming. Recently, I am interested in artificial intelligence. <br/><br/>
 
 <!--

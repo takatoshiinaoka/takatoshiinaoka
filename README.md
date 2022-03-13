@@ -10,6 +10,8 @@
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/contributions.svg)](http://qiita.com/takatoshiinaoka)
 <br>
 [![Topa'z](https://img.shields.io/badge/-topa'z-61dafb?&style=flat&logo=Moo&logoColor=555)](https://topaz.dev/users/8759a409a9b82455a083e5dfaa4f)
+[![AtCoder](https://img.shields.io/badge/-AtCoder-333?&style=flat&logo=Academia&logoColor=555)](https://atcoder.jp/users/ricehill)
+[![paiza](https://img.shields.io/badge/-paiza-93b636?&style=flat&logo=Planet&logoColor=555)](https://paiza.jp/works/mypage)
 ### A little about me... 
 I'm an **College Student in Fukuoka studying computer science🎓** I want to change the world using a computer. When I was looking for something I could do with a computer, I came across programming. Recently, I am interested in Cloud Computing & Artificial Intelligence. 
 <br/><br/>

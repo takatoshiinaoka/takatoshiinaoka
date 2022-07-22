@@ -1,6 +1,4 @@
-<h1> Hello! , I am 
-  <a href="https://github.com/takatoshiinaoka">Takatoshi Inaoka</a>．
-</h1>
+# Hello! , I am [Takatoshi Inaoka](https://github.com/takatoshiinaoka)．
 
 ![miwashutaro0611](https://komarev.com/ghpvc/?username=miwashutaro0611)
 [![Twitter](https://img.shields.io/twitter/follow/ibecomeigopera2?label=Twitter&logo=twitter&style=flat)](http://twitter.com/ibecomeigopera2)

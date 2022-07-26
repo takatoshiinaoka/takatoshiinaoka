@@ -33,3 +33,4 @@ I'm an **College Student in Fukuoka studying computer science🎓** I want to ch
   <img alt="Top Langs" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=takatoshiinaoka&layout=compact&show_icons=true&theme=ocean_dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takatoshiinaoka&theme=ocean_dark&show_icons=ture" />
 </p>
+

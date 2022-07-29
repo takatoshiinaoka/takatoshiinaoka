@@ -2,7 +2,7 @@
 
 ![miwashutaro0611](https://komarev.com/ghpvc/?username=miwashutaro0611)
 [![Twitter](https://img.shields.io/twitter/follow/ibecomeigopera2?label=Twitter&logo=twitter&style=flat)](http://twitter.com/ibecomeigopera2)
-[![Github](https://img.shields.io/github/followers/takatoshiinaoka?label=followrs&logo=github&style=flat)](https://github.com/takatoshiinaoka?tab=followers)
+[![Github](https://img.shields.io/github/followers/takatoshiinaoka?label=followers&logo=github&style=flat)](https://github.com/takatoshiinaoka?tab=followers)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/posts.svg)](http://qiita.com/takatoshiinaoka)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/contributions.svg)](http://qiita.com/takatoshiinaoka)
 [![AtCoder](https://img.shields.io/badge/-AtCoder-333?&style=flat&logo=Academia&logoColor=555)](https://atcoder.jp/users/ricehill)

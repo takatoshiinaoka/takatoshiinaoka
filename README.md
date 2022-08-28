@@ -27,6 +27,16 @@ I'm an **College Student in Fukuoka studying computer science🎓** I want to ch
 
 ----
 
+## Social
+<p align="left">
+  <a href="https://github.com/takatoshiinaoka/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="" height="30" width="40" /></a> 
+  <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a> 
+  <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a> 
+  <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a> 
+  <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a> 
+  <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" alt="" height="30" width="40" /></a> 
+</p> 
+
 ## Programming Languages 
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" height="30" width="40" /></a>
@@ -46,7 +56,6 @@ I'm an **College Student in Fukuoka studying computer science🎓** I want to ch
 <p align="left">
   <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/laravel.svg" alt="" height="30" width="40" /></a> 
   <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/django.svg" alt="" height="30" width="40" /></a> 
- 
 </p> 
 
 ## Frontend

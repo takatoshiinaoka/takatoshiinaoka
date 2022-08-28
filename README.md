@@ -99,6 +99,7 @@ I'm an **College Student in Fukuoka studying computer science🎓** I want to ch
   <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="" height="30" width="40" /></a> 
   <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="" height="30" width="40" /></a>
 </p> 
+<br>
 
 ----
 

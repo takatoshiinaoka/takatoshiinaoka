@@ -11,6 +11,8 @@
 I'm an **College Student in Fukuoka studying computer science🎓** I want to change the world using a computer. When I was looking for something I could do with a computer, I came across programming. Recently, I am interested in Cloud Computing & Artificial Intelligence. 
 <br/><br/>
 
+[資格一覧](https://www.credly.com/users/takatoshi-inaoka/badges)
+
 <!--
 - 🔭 I’m currently working on intern at <a href="https://www.alterbooth.com/" target="_blank" rel="noreferrer"> <img src="https://www.alterbooth.com/img/common/logo.png" alt="azure" width="80" height="20"/> </a>
 - 🌱 I’m currently learning <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/> </a>

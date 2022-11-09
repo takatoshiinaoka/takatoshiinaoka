@@ -1,7 +1,7 @@
 # Hello! , I am Takatoshi Inaoka．
 
 ![miwashutaro0611](https://komarev.com/ghpvc/?username=miwashutaro0611)
-[![Twitter](https://img.shields.io/twitter/follow/ibecomeigopera2?label=Twitter&logo=twitter&style=flat)](http://twitter.com/ibecomeigopera2)
+[![Twitter](https://img.shields.io/twitter/follow/takatoshiinaoka?label=Twitter&logo=twitter&style=flat)](http://twitter.com/takatoshiinaoka)
 [![Github](https://img.shields.io/github/followers/takatoshiinaoka?label=followers&logo=github&style=flat)](https://github.com/takatoshiinaoka?tab=followers)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/posts.svg)](http://qiita.com/takatoshiinaoka)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/contributions.svg)](http://qiita.com/takatoshiinaoka)

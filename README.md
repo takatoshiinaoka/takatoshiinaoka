@@ -122,5 +122,4 @@ I'm an **College Student in Fukuoka studying computer science🎓** I want to ch
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takatoshiinaoka&theme=ocean_dark&show_icons=ture" />
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=takatoshiinaoka&bg_color=121212&color=16e35e&line=1ad527&point=28ef25&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=takatoshiinaoka&bg_color=000&color=16e35e&line=1ad527&point=28ef25&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

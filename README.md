@@ -8,11 +8,10 @@
 <h3 align="center">A passionate developer from Japan.</h3>
 
 
-
 - 👨‍💻 All of my projects are available at [https://topaz.dev/takatoshiinaoka](https://topaz.dev/takatoshiinaoka)
-
-- 📝 I regularly write articles on [https://inaoka.hatenablog.com/](https://inaoka.hatenablog.com/)
-
+- 📝 I regularly write articles with **hatena** on [https://inaoka.hatenablog.com/](https://inaoka.hatenablog.com/)
+- 📝 I regularly write articles with **Qiita** on [http://qiita.com/takatoshiinaoka](http://qiita.com/takatoshiinaoka)
+- 📝 I regularly write articles with **hatena** on [https://inaoka.hatenablog.com/](https://inaoka.hatenablog.com/)
 - 📛 The list of qualifications obtained is [https://www.credly.com/users/takatoshi-inaoka/badges](https://www.credly.com/users/takatoshi-inaoka/badges)
 
 <h3 align="left">Connect with me:</h3>

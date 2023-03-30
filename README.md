@@ -1,5 +1,4 @@
 ![miwashutaro0611](https://komarev.com/ghpvc/?username=miwashutaro0611)
-[![Github](https://img.shields.io/github/followers/takatoshiinaoka?label=followers&logo=github&style=flat)](https://github.com/takatoshiinaoka?tab=followers)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/posts.svg)](http://qiita.com/takatoshiinaoka)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/contributions.svg)](http://qiita.com/takatoshiinaoka)
 [![Topa'z](https://img.shields.io/badge/-topa'z-61dafb?&style=flat&logo=Moo&logoColor=555)](https://topaz.dev/users/8759a409a9b82455a083e5dfaa4f)
@@ -9,9 +8,9 @@
 
 
 - 👨‍💻 All of my projects are available at [https://topaz.dev/takatoshiinaoka](https://topaz.dev/takatoshiinaoka)
-- 📝 I regularly write articles with **hatena** on [https://inaoka.hatenablog.com/](https://inaoka.hatenablog.com/)
 - 📝 I regularly write articles with **Qiita** on [http://qiita.com/takatoshiinaoka](http://qiita.com/takatoshiinaoka)
-- 📝 I regularly write articles with **hatena** on [https://inaoka.hatenablog.com/](https://inaoka.hatenablog.com/)
+- 📝 I regularly write articles with **Hatena** on [https://inaoka.hatenablog.com](https://inaoka.hatenablog.com)
+- 📝 I regularly write articles with **Topa'z** on [https://topaz.dev/takatoshiinaoka?tab=recipes](https://topaz.dev/takatoshiinaoka?tab=recipes)
 - 📛 The list of qualifications obtained is [https://www.credly.com/users/takatoshi-inaoka/badges](https://www.credly.com/users/takatoshi-inaoka/badges)
 
 <h3 align="left">Connect with me:</h3>

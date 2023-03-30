@@ -7,7 +7,7 @@
 <h3 align="center">A passionate developer from Japan.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://topaz.dev/takatoshiinaoka](https://topaz.dev/takatoshiinaoka)
+- 👨‍💻 Here are the **Apps** I've made so far [https://topaz.dev/takatoshiinaoka](https://topaz.dev/takatoshiinaoka)
 - 📝 I regularly write articles with **Qiita** on [http://qiita.com/takatoshiinaoka](http://qiita.com/takatoshiinaoka)
 - 📝 I regularly write articles with **Hatena** on [https://inaoka.hatenablog.com](https://inaoka.hatenablog.com)
 - 📝 I regularly write articles with **Topa'z** on [https://topaz.dev/takatoshiinaoka?tab=recipes](https://topaz.dev/takatoshiinaoka?tab=recipes)

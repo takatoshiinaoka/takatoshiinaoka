@@ -10,7 +10,7 @@
 - 👨‍💻 Here are the **Apps** I've made so far [https://topaz.dev/takatoshiinaoka](https://topaz.dev/takatoshiinaoka)
 - 📝 I regularly write articles with **Qiita** on [http://qiita.com/takatoshiinaoka](http://qiita.com/takatoshiinaoka)
 - 📝 I regularly write articles with **Hatena** on [https://inaoka.hatenablog.com](https://inaoka.hatenablog.com)
-- 📝 I regularly write articles with **Topa'z** on [https://topaz.dev/takatoshiinaoka?tab=recipes](https://topaz.dev/takatoshiinaoka?tab=recipes)
+- 📝 I regularly write articles with **Topa'z** on [https://topaz.dev/takatoshiinaoka?tab=projects](https://topaz.dev/takatoshiinaoka?tab=projects)
 - 📛 The list of qualifications obtained is [https://www.credly.com/users/takatoshi-inaoka/badges](https://www.credly.com/users/takatoshi-inaoka/badges)
 
 <h3 align="left">Connect with me:</h3>

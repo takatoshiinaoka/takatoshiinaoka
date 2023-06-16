@@ -50,4 +50,6 @@
 [![](https://raw.githubusercontent.com/takatoshiinaoka/takatoshiinaoka/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takatoshiinaoka/takatoshiinaoka/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takatoshiinaoka/takatoshiinaoka/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takatoshiinaoka/takatoshiinaoka/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<!-- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=takatoshiinaoka&bg_color=000&color=16e35e&line=1ad527&point=28ef25&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->

@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/takatoshiinaoka/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a> 
-  <a href="https://www.facebook.com/heaven2316" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> 
+  <a href="https://www.facebook.com/takatoshiinaoka" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> 
   <a href="http://twitter.com/takatoshiinaoka" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> 
   <a href="https://www.instagram.com/rice._.hill" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> 
   <a href="https://discord.com/channels/704210708681719838" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a> 

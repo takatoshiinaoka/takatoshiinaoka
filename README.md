@@ -4,7 +4,7 @@
 [![Topa'z](https://img.shields.io/badge/-topa'z-61dafb?&style=flat&logo=Moo&logoColor=555)](https://topaz.dev/users/8759a409a9b82455a083e5dfaa4f)
 
 <h1 align="center">Hi, I'm takatoshiinaoka👋</h1>
-<h3 align="center">A passionate developer from Japan.</h3>
+<h3 align="center">A passionate developer and consultant from Japan.</h3>
 
 
 - 👨‍💻 Here are the **Apps** I've made so far [https://topaz.dev/takatoshiinaoka](https://topaz.dev/takatoshiinaoka)

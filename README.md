@@ -1,7 +1,7 @@
 ![miwashutaro0611](https://komarev.com/ghpvc/?username=miwashutaro0611)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/posts.svg)](http://qiita.com/takatoshiinaoka)
 [![Qiita](https://qiita-badge.apiapi.app/s/takatoshiinaoka/contributions.svg)](http://qiita.com/takatoshiinaoka)
-[![Topa'z](https://img.shields.io/badge/-topa'z-61dafb?&style=flat&logo=Moo&logoColor=555)](https://topaz.dev/users/8759a409a9b82455a083e5dfaa4f)
+[![Topa'z](https://img.shields.io/badge/-topa'z-61dafb?&style=flat&logo=Moo&logoColor=555)](https://topaz.dev/takatoshiinaoka)
 
 <h1 align="center">Hi, I'm takatoshiinaoka👋</h1>
 <h3 align="center">A passionate developer and consultant from Japan.</h3>
